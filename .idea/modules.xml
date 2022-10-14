@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/RK13Lab2Android-main.iml" filepath="$PROJECT_DIR$/.idea/modules/RK13Lab2Android-main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/TSN_DEMO_02_Quadratic/RK13Lab2Android-main.TSN_DEMO_02_Quadratic.iml" filepath="$PROJECT_DIR$/.idea/modules/TSN_DEMO_02_Quadratic/RK13Lab2Android-main.TSN_DEMO_02_Quadratic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/TSN_DEMO_02_Quadratic/RK13Lab2Android-main.TSN_DEMO_02_Quadratic.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/TSN_DEMO_02_Quadratic/RK13Lab2Android-main.TSN_DEMO_02_Quadratic.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/TSN_DEMO_02_Quadratic/RK13Lab2Android-main.TSN_DEMO_02_Quadratic.main.iml" filepath="$PROJECT_DIR$/.idea/modules/TSN_DEMO_02_Quadratic/RK13Lab2Android-main.TSN_DEMO_02_Quadratic.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/TSN_DEMO_02_Quadratic/RK13Lab2Android-main.TSN_DEMO_02_Quadratic.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/TSN_DEMO_02_Quadratic/RK13Lab2Android-main.TSN_DEMO_02_Quadratic.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/TSN_DEMO_03_Questionnaire/RK13Lab2Android-main.TSN_DEMO_03_Questionnaire.iml" filepath="$PROJECT_DIR$/.idea/modules/TSN_DEMO_03_Questionnaire/RK13Lab2Android-main.TSN_DEMO_03_Questionnaire.iml" />
+    </modules>
+  </component>
+</project>

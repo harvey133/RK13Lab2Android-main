@@ -1,0 +1,4 @@
+# Project exclude paths
+/.gradle/
+/TSN_DEMO_02_Quadratic/build/
+/TSN_DEMO_02_Quadratic/build/intermediates/javac/debug/classes/
